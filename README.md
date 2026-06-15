@@ -21,8 +21,6 @@ I am preparing for Cybersecurity and Computer Science.
 
 ## Goal
 
-## Goal
-
 To build a strong foundation in Cybersecurity and Computer Science and contribute to the technology community through learning and projects.
 
 ## Education
