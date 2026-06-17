@@ -26,6 +26,7 @@ This repository documents my learning journey in Cybersecurity, Programming, Lin
 - Sum of Two Numbers
 - Even/Odd Checker
 - Age Checker
+- Password generator
 
 ## Goal
 
