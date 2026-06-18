@@ -1,24 +1,66 @@
 # Cybersecurity Learning Journal
 
-## 16 June 2026
-- Created GitHub account
-- Created cybersecurity-learning repository
-- Installed Python
-- Completed hello.py
-- Completed sum.py
+## Introduction
 
-## 17 June 2026
-- Completed even_odd.py
-- Completed age_checker.py
-- Completed password_generator.py
-- Created linux_basics.md
-- Created networking_basics.md
+I started learning cybersecurity, Linux, networking, and Python programming to build a strong foundation in computer security and technology.
 
-## Skills Started
-- Python
-- Linux
-- Networking
-- Cybersecurity Fundamentals
+## Python Programming
 
-## Goal
-To build foundational cybersecurity skills through self-learning and hands-on practice.
+Projects Completed:
+
+* hello.py
+* sum.py
+* even_odd.py
+* age_checker.py
+* password_generator.py
+
+Skills Learned:
+
+* Variables
+* User Input
+* Conditional Statements
+* Functions
+* Random Module
+
+## Linux Fundamentals
+
+Topics Studied:
+
+* pwd
+* ls
+* cd
+* mkdir
+* rm
+* cat
+* cp
+* mv
+
+Learning Outcome:
+Developed familiarity with command-line navigation and file management.
+
+## Networking Fundamentals
+
+Topics Studied:
+
+* IP Address
+* DNS
+* HTTP
+* HTTPS
+* TCP
+* UDP
+
+Learning Outcome:
+Developed an understanding of basic networking and secure communication concepts.
+
+## Future Learning Goals
+
+* OverTheWire Bandit
+* Linux Administration
+* Network Security
+* Capture The Flag (CTF) Challenges
+* Python for Cybersecurity
+
+## Learning Objective
+
+My goal is to build a strong foundation in cybersecurity through self-learning and hands-on practice.
+
