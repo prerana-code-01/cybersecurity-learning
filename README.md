@@ -26,7 +26,27 @@ This repository documents my learning journey in Cybersecurity, Programming, Lin
 - Sum of Two Numbers
 - Even/Odd Checker
 - Age Checker
-- Password generator
+- Password Generator
+
+  ## OverTheWire Bandit Progress
+
+Completed Levels: 0–12
+
+The OverTheWire Bandit wargame helped me practice Linux command-line skills, file handling, text processing, data decoding, and basic cybersecurity problem-solving through hands-on exercises.
+
+Key Concepts Learned:
+
+* Linux command-line navigation
+* Hidden files and directories
+* Special filenames handling
+* File type identification
+* File searching with find
+* Text searching with grep
+* Data processing using sort and uniq
+* Base64 decoding
+* ROT13 cipher decoding
+* Archive extraction and file analysis
+
 
 ## Goal
 
